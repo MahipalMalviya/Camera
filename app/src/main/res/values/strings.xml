@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="request_permission">This App needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="image_capture_retry">Retry</string>
+    <string name="image_save_ok">Ok</string>
+</resources>
